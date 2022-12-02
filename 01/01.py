@@ -16,7 +16,3 @@
 print(highest)
 lst = sorted(lst)
 print(lst[-1] + lst[-2] + lst[-3])
-
-
-
-
